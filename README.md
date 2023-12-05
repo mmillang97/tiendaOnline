@@ -1,1 +1,1 @@
-# jQuery
+# Tienda online con jQuery
